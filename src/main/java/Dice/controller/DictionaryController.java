@@ -1,6 +1,6 @@
-package controller;
+package Dice.controller;
 
-import model.Dictionary;
+import Dice.model.Dictionary;
 
 public class DictionaryController {
     private Dictionary dictionary = new Dictionary();
