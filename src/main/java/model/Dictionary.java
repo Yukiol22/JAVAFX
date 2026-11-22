@@ -1,7 +1,7 @@
 package model;
 import java.util.*;
 
-public class Dictionary { ;
+public class Dictionary {
     private HashMap<String, String> words = new HashMap<>();
 
     public void addWord(String word, String meaning) {

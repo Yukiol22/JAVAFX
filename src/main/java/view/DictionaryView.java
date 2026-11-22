@@ -47,7 +47,7 @@ public class DictionaryView extends Application {
             }
         });
 
-        Scene scene = new Scene(pane,  200, 150);
+        Scene scene = new Scene(pane, 300,150);
         stage.setScene(scene);
         stage.show();
     }
