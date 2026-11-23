@@ -1,7 +1,7 @@
-package Dice.controller;
+package dictionary.controller;
 
-import Dice.view.DiceGUI;
-import Dice.model.Dice;
+import dictionary.view.DiceGUI;
+import dictionary.model.Dice;
 
 public class DiceController {
 

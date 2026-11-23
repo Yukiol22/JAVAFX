@@ -1,4 +1,4 @@
-package Dice.model;
+package dictionary.model;
 
 
 public class Dice {

@@ -1,6 +1,6 @@
-package Dice;
+package dictionary;
 
-import Dice.view.DictionaryView;
+import dictionary.view.DictionaryView;
 
 public class Main {
     public static void main(String[] args) {

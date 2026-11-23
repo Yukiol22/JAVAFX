@@ -1,4 +1,4 @@
-package Dice.model;
+package dictionary.model;
 import java.util.*;
 
 public class Dictionary {

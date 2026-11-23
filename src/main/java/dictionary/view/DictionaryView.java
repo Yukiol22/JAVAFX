@@ -1,6 +1,6 @@
-package Dice.view;
+package dictionary.view;
 
-import Dice.controller.DictionaryController;
+import dictionary.controller.DictionaryController;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

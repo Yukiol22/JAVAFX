@@ -1,11 +1,11 @@
-package Dice.view;
+package dictionary.view;
 
 /*
 The application implements an electronic dice that can be used to play board games. The application has a button that rolls the dice. When the user clicks the button, the application generates a random number between 1 and 6 and displays it on the screen. The user interfice also provides the possibility to change the number of sides of the dice. Thus, you can use the application to throw a regular 6-side dice, or, if you wish, a role-player's dice with 20 sides.
 
  */
 
-import Dice.controller.DiceController;
+import dictionary.controller.DiceController;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.stage.Stage;
@@ -31,7 +31,7 @@ public class DiceGUI extends Application {
         Button castButton = new Button("Cast");
         FlowPane pane = new FlowPane();
 
-        stage.setTitle("Dice");
+        stage.setTitle("dictionary");
 
         // add outside margins for components
         Insets insets = new Insets(10, 10, 10, 10);
